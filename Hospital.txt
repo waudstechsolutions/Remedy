@@ -1,2 +1,4 @@
 Located in KPHB
 city: hyderabad
+state: Telangana
+country: India
